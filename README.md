@@ -28,11 +28,11 @@ This project documents my installation and  configuration of Docker on a Raspber
 
 ## Status
 
-Docker installed
-Docker service enabled
-Hello World container executed
-Portainer deployed
-Verified Portainer locally using: 
+- Docker installed
+- Docker service enabled
+- Hello World container executed
+- Portainer deployed
+- Verified Portainer locally using: 
 ```bash
 curl -l https://localhost:9443
 ```
